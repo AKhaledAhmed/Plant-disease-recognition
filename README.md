@@ -17,7 +17,7 @@ It compares different deep learning approaches, including a **Custom CNN**, **VG
 
 ## 📂 Dataset
 
-- Source: [PlantVillage Dataset (Kaggle)](https://www.kaggle.com/datasets/emmarex/plantdisease)  
+- Source: [PlantVillage Dataset (Kaggle)](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset)  
 - Images organized in `train/` and `test/` folders by class.  
 - Example structure:
 
